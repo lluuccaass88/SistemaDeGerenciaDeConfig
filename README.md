@@ -1,2 +1,3 @@
-# Sistemas-de-Ger-ncia-de-Configura-o
-Repositório para as coisas da cadeira
+# SistemasDeGerenciaDeConfig
+Repositório para as coisas da cadeira de Sistemas de gerência de configurações
+Atividade labiratório 01
